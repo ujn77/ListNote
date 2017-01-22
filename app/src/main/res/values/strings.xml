@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Заметки</string>
+
+    <string name="item_text">Item</string>
+
+    <string name="menu_add_item">Add</string>
+    <string name="menu_clear_items">Clear all</string>
+    <string name="menu_ch_type">Change type of view</string>
+    <string name="dlg_tl">Внимание!</string>
+    <string name="dlg_msg">Вы действительно хотите удалить элемент</string>
+    <string name="dlg_btn_ok">OK</string>
+    <string name="dlg_btn_cancel">CANCEL</string>
+
+    <string-array name="list_items">
+        <item>Подстричься!</item>
+        <item>Не забыть купить автомобиль</item>
+        <item>Забежать на почту</item>
+    </string-array>
+
+</resources>
